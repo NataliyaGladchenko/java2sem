@@ -1,0 +1,1631 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>TUT.BY: Новости ТУТ - Спорт</title>
+        <link>https://news.tut.by/</link>
+        <description>Последние новости образования, здравоохранения, транспорта, ЖКХ и других сфер. Новости экономики и политики в мире, происшествия и др.</description>
+        <language>ru</language>
+        <image>
+            <url>https://img.tyt.by/i/rss/news/logo.gif</url>
+            <title>TUT.BY: Новости ТУТ - Спорт</title>
+            <link>https://news.tut.by/</link>
+        </image>
+        <pubDate>Sun, 16 Dec 2018 09:46:14 +0300</pubDate>
+        <lastBuildDate>Sun, 16 Dec 2018 00:41:04 +0300</lastBuildDate>
+        <ttl>10</ttl>
+        <atom:link href="http://news.tut.by/rss/sport.rss" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Белорусские хоккеисты проиграли Латвии на молодежном ЧМ</title>
+            <link>https://sport.tut.by/news/hockey/619356.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Молодежная сборная Беларуси по хоккею поражением от Латвии завершила выступление в первом А дивизионе молодежного чемпионата мира в Германии.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/09/a/belarus-u20-10-12-2018-1.jpg" type="image/jpeg" length="443836" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/619356.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sun, 16 Dec 2018 00:39:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/09/a/belarus-u20-10-12-2018-1.jpg" type="image/jpeg" medium="image" height="853" width="1280" fileSize="443836" />
+        </item>
+        <item>
+            <title>Гандболистки сборной Беларуси узнали соперниц в борьбе за выход на ЧМ-2019</title>
+            <link>https://sport.tut.by/news/handball/619349.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>В Париже состоялась жеребьевка раунда плей-офф европейской квалификации женского чемпионата мира по гандболу, который в ноябре-декабре 2019 года пройдет в Японии.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/handball/">Гандбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/0a/6/tomaz_and_womens_team-belarus-handball-1.jpg" type="image/jpeg" length="569650" />
+            <guid isPermaLink="true">https://sport.tut.by/news/handball/619349.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 15 Dec 2018 22:29:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0a/6/tomaz_and_womens_team-belarus-handball-1.jpg" type="image/jpeg" medium="image" height="667" width="1000" fileSize="569650" />
+        </item>
+        <item>
+            <title>Молодежная сборная Беларуси по хоккею утратила шансы на выход в элитный дивизион МЧМ</title>
+            <link>https://sport.tut.by/news/hockey/619342.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Команда Беларуси в своем заключительном матче сыграет сегодня вечером со сверстниками из Латвии, однако вне зависимости от его исхода парни Дмитрия Кравченко не поднимутся выше второго места.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/04/a/belarus_franciya_20_3.jpg" type="image/jpeg" length="170275" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/619342.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 15 Dec 2018 20:34:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/04/a/belarus_franciya_20_3.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="170275" />
+            <media:content url="https://img.tyt.by/n/sport/09/a/belarus-u20-10-12-2018-1.jpg" type="image/jpeg" medium="image" height="853" width="1280" fileSize="443836" />
+            <media:content url="https://img.tyt.by/n/sport/10/7/table-u20-15-12-2018-1.jpg" type="image/jpeg" medium="image" height="476" width="1074" fileSize="55459" />
+        </item>
+        <item>
+            <title>Перед матчем сборной Беларуси по хоккею в Норвегии вместо гимна включили «Касіў Ясь канюшыну»</title>
+            <link>https://sport.tut.by/news/hockey/619339.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Организаторы турнира в Норвегии ошиблись и перед матчем хозяев со сборной Беларуси вместо гимна нашей страны включили известный хит «Касіў Ясь канюшыну».</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/buryakina/10/5/belarus_franciya_20181031_bur_tutby_phsl-5965.jpg" type="image/jpeg" length="504824" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/619339.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 15 Dec 2018 17:59:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/buryakina/10/5/belarus_franciya_20181031_bur_tutby_phsl-5965.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="504824" />
+        </item>
+        <item>
+            <title>Команда Лукашенко победила в матче Республиканского любительского турнира по хоккею</title>
+            <link>https://sport.tut.by/news/hockey/619338.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Поединок состоялся сегодня на площадке «Чижовка-Арены» и завершился со счетом 15:4 (2:1, 8:1, 5:2) в пользу команды главы государства. Среди забивших шайбу в ворота соперника - и сам Александр Лукашенко.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/prezident/0d/4/lukashenko_khokkey_lyubitelskiy_turnir_3.jpg" type="image/jpeg" length="99305" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/619338.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 15 Dec 2018 17:44:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/prezident/0d/4/lukashenko_khokkey_lyubitelskiy_turnir_3.jpg" type="image/jpeg" medium="image" height="450" width="665" fileSize="99305" />
+        </item>
+        <item>
+            <title>Фуркад выиграл преследование в Хохфильцине, Елетнов - 52-й</title>
+            <link>https://sport.tut.by/news/biathlon/619335.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Французский биатлонист Мартен Фуркад после ряда неудачных гонок доказал, что он все еще является претендентом на победу в общем зачете Кубка мира.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/biathlon/">Биатлон</category>
+            <enclosure url="https://img.tyt.by/n/sport/03/0/furkad_mikst_olimpiada_start_1.jpg" type="image/jpeg" length="205264" />
+            <guid isPermaLink="true">https://sport.tut.by/news/biathlon/619335.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 15 Dec 2018 17:30:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/03/0/furkad_mikst_olimpiada_start_1.jpg" type="image/jpeg" medium="image" height="822" width="1200" fileSize="205264" />
+        </item>
+        <item>
+            <title>Белорусские хоккеисты разгромили Венгрию на турнире в Норвегии</title>
+            <link>https://sport.tut.by/news/hockey/619328.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Сборная Беларуси по хоккею завершила турнир в Норвегии уверенной победой над командой Венгрии - 8:1 (0:1, 6:0, 2:0).</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/buryakina/07/3/belarus_franciya_20181031_bur_tutby_phsl-6201.jpg" type="image/jpeg" length="543273" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/619328.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 15 Dec 2018 16:22:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/buryakina/07/3/belarus_franciya_20181031_bur_tutby_phsl-6201.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="543273" />
+        </item>
+        <item>
+            <title>Кривко заняла 12-е место в гонке преследования на этапе КМ по биатлону в Австрии</title>
+            <link>https://sport.tut.by/news/biathlon/619320.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Белорусская биатлонистка Ирина Кривко заняла 12-е место в гонке преследования на этапе Кубка мира в австрийском Хохфильцине.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/biathlon/">Биатлон</category>
+            <enclosure url="https://img.tyt.by/n/sport/09/6/krivko_nyu.jpg" type="image/jpeg" length="718926" />
+            <guid isPermaLink="true">https://sport.tut.by/news/biathlon/619320.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 15 Dec 2018 14:16:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/09/6/krivko_nyu.jpg" type="image/jpeg" medium="image" height="1664" width="2500" fileSize="718926" />
+        </item>
+        <item>
+            <title>Овечкин сделал хет-трик во втором матче подряд и помог «Вашингтону» спасти игру с 1:4</title>
+            <link>https://sport.tut.by/news/hockey/619317.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Капитан «Вашингтона» Александр Овечкин во втором матче подряд оформил хет-трик и продлил результативную серию до 13 игр, повторив личный рекорд.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/03/1/ovechkin-14-12-2018-1.jpg" type="image/jpeg" length="48397" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/619317.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 15 Dec 2018 13:00:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/03/1/ovechkin-14-12-2018-1.jpg" type="image/jpeg" medium="image" height="576" width="1024" fileSize="48397" />
+        </item>
+        <item>
+            <title>Футбольный клуб «Крумкачы» выбрал новое имя для команды - НФК. Что оно значит?</title>
+            <link>https://sport.tut.by/news/football/619314.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Футбольный клуб «Крумкачы» определился с новым названием для команды. Менять имя «вороны» были вынуждены из-за того, что Белорусская федерация футбола не разрешила заявиться в первую лигу.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/09/1/krumkachy-2018-1234567.jpg" type="image/jpeg" length="225298" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/619314.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 15 Dec 2018 12:26:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/09/1/krumkachy-2018-1234567.jpg" type="image/jpeg" medium="image" height="533" width="750" fileSize="225298" />
+        </item>
+        <item>
+            <title>Автор дубля в ворота ПАОКа может продолжить карьеру в Греции</title>
+            <link>https://sport.tut.by/news/football/619306.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Напомним, что у Николая уже был опыт игры в Греции.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/0b/9/paok_bate_3.jpg" type="image/jpeg" length="321321" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/619306.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 15 Dec 2018 09:41:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0b/9/paok_bate_3.jpg" type="image/jpeg" medium="image" height="811" width="1200" fileSize="321321" />
+            <media:content url="https://img.tyt.by/n/sport/0a/d/chestvovanie_bate_34.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="179453" />
+        </item>
+        <item>
+            <title>Медаль в небо. Как БАТЭ вручили золотые награды на «Борисов-Арене»</title>
+            <link>https://sport.tut.by/news/football/619298.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Как это было - смотрите в фотографиях Александра Какшинского.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/05/e/chestvovanie_bate_43.jpg" type="image/jpeg" length="169544" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/619298.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 14 Dec 2018 20:54:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/05/e/chestvovanie_bate_43.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="169544" />
+            <media:content url="https://img.tyt.by/n/sport/0c/1/chestvovanie_bate_22.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="240381" />
+            <media:content url="https://img.tyt.by/n/sport/01/2/chestvovanie_bate_36.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="317659" />
+            <media:content url="https://img.tyt.by/n/sport/0a/9/chestvovanie_bate_27.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="158488" />
+            <media:content url="https://img.tyt.by/n/sport/04/8/chestvovanie_bate_30.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="172778" />
+            <media:content url="https://img.tyt.by/n/sport/03/7/chestvovanie_bate_31.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="166475" />
+            <media:content url="https://img.tyt.by/n/sport/09/2/chestvovanie_bate_38.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="142582" />
+            <media:content url="https://img.tyt.by/n/sport/10/f/chestvovanie_bate_41.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="178353" />
+            <media:content url="https://img.tyt.by/n/sport/08/3/chestvovanie_bate_28.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="164959" />
+            <media:content url="https://img.tyt.by/n/sport/00/7/chestvovanie_bate_29.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="188469" />
+            <media:content url="https://img.tyt.by/n/sport/0a/d/chestvovanie_bate_34.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="179453" />
+            <media:content url="https://img.tyt.by/n/sport/0a/c/chestvovanie_bate_48.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="477535" />
+            <media:content url="https://img.tyt.by/n/sport/00/f/chestvovanie_bate_47.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="482891" />
+            <media:content url="https://img.tyt.by/n/sport/08/e/chestvovanie_bate_55.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="292331" />
+            <media:content url="https://img.tyt.by/n/sport/0d/b/chestvovanie_bate_51.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="221002" />
+            <media:content url="https://img.tyt.by/n/sport/0c/e/chestvovanie_bate_54.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="231715" />
+            <media:content url="https://img.tyt.by/n/sport/0c/9/chestvovanie_bate_63.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="203963" />
+            <media:content url="https://img.tyt.by/n/sport/0f/e/chestvovanie_bate_62.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="179347" />
+            <media:content url="https://img.tyt.by/n/sport/0a/4/chestvovanie_bate_64.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="196752" />
+        </item>
+        <item>
+            <title>Белорусские хоккеисты потерпели «сухое» поражение от французов</title>
+            <link>https://sport.tut.by/news/hockey/619292.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Сборная Беларуси по хоккею потерпела второе поражение на турнире в Норвегии. После разгрома от хозяев (1:6) подопечные Андрея Сидоренко уступили французам - 0:1.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/buryakina/10/9/belarus_franciya_20181031_bur_tutby_phsl-6118.jpg" type="image/jpeg" length="319820" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/619292.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 14 Dec 2018 19:58:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/buryakina/10/9/belarus_franciya_20181031_bur_tutby_phsl-6118.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="319820" />
+        </item>
+        <item>
+            <title>БТФ назвала лучших теннисистов и тренеров 2018 года</title>
+            <link>https://sport.tut.by/news/tennis/619256.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Белорусская теннисная федерация подвела итоги 2018 года.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/tennis/">Теннис</category>
+            <enclosure url="https://img.tyt.by/n/sport/04/a/sobolenko_pobeda_ukhan.jpg" type="image/jpeg" length="225025" />
+            <guid isPermaLink="true">https://sport.tut.by/news/tennis/619256.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 14 Dec 2018 18:15:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/04/a/sobolenko_pobeda_ukhan.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="225025" />
+            <media:content url="https://img.tyt.by/n/sport/0f/5/ivashko-ilya-2018-1111222.jpg" type="image/jpeg" medium="image" height="400" width="600" fileSize="30412" />
+            <media:content url="https://img.tyt.by/n/sport/0e/f/belarus-u18-tennis-8-08-2018-1.jpg" type="image/jpeg" medium="image" height="533" width="800" fileSize="65351" />
+        </item>
+        <item>
+            <title>Йоханнес Бё выиграл спринт в Хохфильцине, лучший из белорусов - 45-й</title>
+            <link>https://sport.tut.by/news/biathlon/619232.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Второй этап Кубка мира по биатлону в австрийском Хохфильцине продолжится мужским спринтом на 10 километров.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/biathlon/">Биатлон</category>
+            <enclosure url="https://img.tyt.by/n/sport/0e/c/j.t.boe-8-12-2017-1.jpg" type="image/jpeg" length="120912" />
+            <guid isPermaLink="true">https://sport.tut.by/news/biathlon/619232.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 14 Dec 2018 17:45:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0e/c/j.t.boe-8-12-2017-1.jpg" type="image/jpeg" medium="image" height="622" width="961" fileSize="120912" />
+        </item>
+        <item>
+            <title>«Всю жизнь мечтал играть именно в таком клубе». Новичок БАТЭ намерен дарить радость болельщикам</title>
+            <link>https://sport.tut.by/news/football/619242.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Новобранец БАТЭ Боян Дубайич заявил о том, что постарается доставить болельщикам максимальное количество радостных мгновений.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/07/10/dubajic_interview_2018_12_14.jpg" type="image/jpeg" length="145251" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/619242.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 14 Dec 2018 16:27:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/07/10/dubajic_interview_2018_12_14.jpg" type="image/jpeg" medium="image" height="349" width="520" fileSize="145251" />
+        </item>
+        <item>
+            <title>Капитан БАТЭ включен в символическую сборную 6-го тура Лиги Европы</title>
+            <link>https://sport.tut.by/news/football/619236.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Капитан БАТЭ Игорь Стасевич включен в символическую сборную 6-го тура групповой стадии Лиги Европы.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/06/6/stasevich_itogi_sezona_1.jpg" type="image/jpeg" length="126628" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/619236.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 14 Dec 2018 16:05:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/06/6/stasevich_itogi_sezona_1.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="126628" />
+            <media:content url="https://img.tyt.by/n/sport/07/c/all-stars-europe-league-tur-6.jpg" type="image/jpeg" medium="image" height="434" width="650" fileSize="47194" />
+        </item>
+        <item>
+            <title>БАТЭ усилился нападающим из «Городеи», который забивал борисовчанам четыре раза</title>
+            <link>https://sport.tut.by/news/football/619216.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Серб из «Городеи» Боян Дубайич стал игроком БАТЭ.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/09/6/dubajic_2018_12_14.jpg" type="image/jpeg" length="123538" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/619216.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 14 Dec 2018 14:01:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/09/6/dubajic_2018_12_14.jpg" type="image/jpeg" medium="image" height="349" width="520" fileSize="123538" />
+        </item>
+        <item>
+            <title>Глава профсоюза КХЛ: Упрямство минского «Динамо» вызывает удивление, но мы не позволим «казнить» Казионова</title>
+            <link>https://sport.tut.by/news/hockey/619202.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Глава профсоюза игроков и тренеров Андрей Коваленко прокомментировал ситуацию с делом российского легионера минского «Динамо» Дениса Казионова, который накануне был повторно помещен на драфт отказов.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/buryakina/01/7/dinamo_neftekhimik_20181126_bur_tutby_phsl-9025.jpg" type="image/jpeg" length="385911" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/619202.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 14 Dec 2018 13:13:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/buryakina/01/7/dinamo_neftekhimik_20181126_bur_tutby_phsl-9025.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="385911" />
+        </item>
+        <item>
+            <title>Вспоминаем, как БАТЭ играл в плей-офф Лиги Европы и чем опасны для команды игры в феврале</title>
+            <link>https://sport.tut.by/news/football/619176.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Алексей Бага стал первым тренером БАТЭ после Виктора Гончаренко, которому удалось вывести команду в еврокубковую «весну». После нее Гончаренко покинул клуб. SPORT.TUT.BY вспоминает главное из опыта игры в плей-офф БАТЭ.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/0d/3/bat_liga_evropy_rtr2760q.jpg" type="image/jpeg" length="266959" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/619176.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 14 Dec 2018 12:53:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0d/3/bat_liga_evropy_rtr2760q.jpg" type="image/jpeg" medium="image" height="832" width="1200" fileSize="266959" />
+            <media:content url="https://img.tyt.by/n/sport/04/f/forma_bate_le_001.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="110171" />
+            <media:content url="https://img.tyt.by/n/sport/08/10/forma_bate_le_002.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="138747" />
+            <media:content url="https://img.tyt.by/n/sport/08/f/forma_bate_le_003.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="140890" />
+            <media:content url="https://img.tyt.by/n/sport/10/2/forma_bate_le_004.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="138693" />
+            <media:content url="https://img.tyt.by/n/sport/05/1/forma_bate_le_005.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="148770" />
+            <media:content url="https://img.tyt.by/n/sport/05/6/forma_bate_le_006.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="113393" />
+            <media:content url="https://img.tyt.by/n/sport/06/6/forma_bate_le_007.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="177266" />
+            <media:content url="https://img.tyt.by/n/sport/10/8/forma_bate_le_008.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="98118" />
+            <media:content url="https://img.tyt.by/n/sport/0e/1/forma_bate_le_009.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="150247" />
+            <media:content url="https://img.tyt.by/n/sport/0e/5/forma_bate_le_010.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="106728" />
+        </item>
+        <item>
+            <title>БАТЭ вернулся домой из Греции</title>
+            <link>https://sport.tut.by/news/football/619192.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>После победного выездного поединка с ПАОКом и выхода в 1/16 финала Лиги Европы футболисты БАТЭ вернулись домой.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/03/c/arrival_2018_12_14_1.jpg" type="image/jpeg" length="148238" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/619192.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 14 Dec 2018 12:46:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/03/c/arrival_2018_12_14_1.jpg" type="image/jpeg" medium="image" height="349" width="520" fileSize="148238" />
+            <media:content url="https://img.tyt.by/n/sport/0e/f/arrival_2018_12_14_2.jpg" type="image/jpeg" medium="image" height="349" width="520" fileSize="138964" />
+            <media:content url="https://img.tyt.by/n/sport/07/4/arrival_2018_12_14_4-signevich.jpg" type="image/jpeg" medium="image" height="349" width="520" fileSize="142640" />
+            <media:content url="https://img.tyt.by/n/sport/10/c/arrival_2018_12_14_main.jpg" type="image/jpeg" medium="image" height="349" width="520" fileSize="155074" />
+            <media:content url="https://img.tyt.by/n/sport/09/8/arrival_2018_12_14_3.jpg" type="image/jpeg" medium="image" height="349" width="520" fileSize="141260" />
+            <media:content url="https://img.tyt.by/n/sport/0c/c/arrival_2018_12_14_5-baga.jpg" type="image/jpeg" medium="image" height="349" width="520" fileSize="192627" />
+        </item>
+        <item>
+            <title>Тренер ПАОКа после вылета из Лиги Европы: Это трудно объяснить, но мы намного сильнее БАТЭ и «Види»</title>
+            <link>https://sport.tut.by/news/football/619179.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Главный тренер греческого ПАОКа Рэзван Луческу прокомментировал результат матча против БАТЭ в заключительном туре группового раунда Лиги Европы, после которого греческий клуб завершил международный сезон.</description>
+            <atom:author>
+                <atom:name>Tribuna.com</atom:name>
+                <atom:uri>http://by.tribuna.com/</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/reuters/0a/e/rts27yp7-razvan_lucescu-2018-1.jpg" type="image/jpeg" length="204162" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/619179.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 14 Dec 2018 12:06:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/reuters/0a/e/rts27yp7-razvan_lucescu-2018-1.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="204162" />
+        </item>
+        <item>
+            <title>БАТЭ заработал в нынешнем евросезоне более 10 миллионов евро</title>
+            <link>https://sport.tut.by/news/football/619157.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Футболисты БАТЭ, обыграв в гостях греческий ПАОК в матче 6-го тура групповой стадии Лиги Европы, вышли в плей-офф турнира и продлили свой международный сезон.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/buryakina/02/b/bate_psv_20180624_bur_tutby_phsl-4360-4.jpg" type="image/jpeg" length="453798" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/619157.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 14 Dec 2018 10:52:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/buryakina/02/b/bate_psv_20180624_bur_tutby_phsl-4360-4.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="453798" />
+        </item>
+        <item>
+            <title>Баскетболистки «Цмокi-Мiнск» обыграли российскую «Инвенту», но выбыли из Еврокубка</title>
+            <link>https://sport.tut.by/news/basketball/619125.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Баскетболистки «Цмокі-Мiнск», уже утратившие шансы на выход в следующую стадию Еврокубка, в заключительном матче группового турнира принимали российскую «Инвенту».</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/basketball/">Баскетбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/0d/d/tsmoki-inventa-13-12-2018-1.jpg" type="image/jpeg" length="56589" />
+            <guid isPermaLink="true">https://sport.tut.by/news/basketball/619125.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 14 Dec 2018 01:11:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0d/d/tsmoki-inventa-13-12-2018-1.jpg" type="image/jpeg" medium="image" height="560" width="780" fileSize="56589" />
+        </item>
+        <item>
+            <title>Сборная Беларуси по хоккею с разгромного поражения от хозяев начала турнир в Норвегии</title>
+            <link>https://sport.tut.by/news/hockey/619130.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Сборная Беларуси по хоккею проиграла в первом матче турнира MEGA Hockey Games команде Норвегии - 1:6 (0:3, 0:1, 1:2).</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/buryakina/07/7/belarus_franciya_20181031_bur_tutby_phsl-6206.jpg" type="image/jpeg" length="451347" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/619130.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 14 Dec 2018 00:17:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/buryakina/07/7/belarus_franciya_20181031_bur_tutby_phsl-6206.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="451347" />
+        </item>
+        <item>
+            <title>Хоккеисты молодежной сборной Беларуси проиграли Германии и крайне усложнили задачу выхода в элиту ЧМ</title>
+            <link>https://sport.tut.by/news/hockey/619021.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Хоккеисты молодежной (U20) сборной Беларуси по хоккею после трех кряду побед на старте чемпионата мира в дивизионе IA подошли к ключевому сражению, но не смогли победить Германию.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/09/a/belarus-u20-10-12-2018-1.jpg" type="image/jpeg" length="443836" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/619021.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 14 Dec 2018 00:11:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/09/a/belarus-u20-10-12-2018-1.jpg" type="image/jpeg" medium="image" height="853" width="1280" fileSize="443836" />
+            <media:content url="https://img.tyt.by/n/sport/05/8/table-u20-13-12-2018.jpg" type="image/jpeg" medium="image" height="403" width="1077" fileSize="44504" />
+        </item>
+        <item>
+            <title>Алексей Бага: Криков в разговоре с Сигневичем не будет, а красная карточка станет для него уроком</title>
+            <link>https://sport.tut.by/news/football/619126.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Главный тренер борисовского БАТЭ Алексей Бага прокомментировал победу в гостях над ПАОКом (3:1). Напомним, что эта виктория вывела клуб в плей-офф Лиги Европы.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/0d/d/30.09.2018_bate_dminsk_66_baga.jpg" type="image/jpeg" length="300030" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/619126.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 13 Dec 2018 23:42:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0d/d/30.09.2018_bate_dminsk_66_baga.jpg" type="image/jpeg" medium="image" height="797" width="1200" fileSize="300030" />
+        </item>
+        <item>
+            <title>БАТЭ обыграл ПАОК и пробился в плей-офф Лиги Европы</title>
+            <link>https://sport.tut.by/news/football/619099.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>В решающем матче группового этапа футбольной Лиги Европы борисовский БАТЭ обыграл в гостях греческий ПАОК - 3:1.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <atom:author>
+                <atom:name>Фото: Reuters</atom:name>
+                <atom:uri>http://pictures.reuters.com/</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/brushko/07/1/bate_paok9.jpeg" type="image/jpeg" length="1104414" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/619099.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 13 Dec 2018 20:51:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/brushko/07/1/bate_paok9.jpeg" type="image/jpeg" medium="image" height="1365" width="2048" fileSize="1104414" />
+            <media:content url="https://img.tyt.by/n/sport/0a/3/paok_bate_2.jpg" type="image/jpeg" medium="image" height="826" width="1200" fileSize="374684" />
+            <media:content url="https://img.tyt.by/n/sport/0c/d/paok_bate_fanaty_1.jpg" type="image/jpeg" medium="image" height="759" width="1200" fileSize="423865" />
+            <media:content url="https://img.tyt.by/n/sport/0b/9/paok_bate_3.jpg" type="image/jpeg" medium="image" height="811" width="1200" fileSize="321321" />
+            <media:content url="https://img.tyt.by/n/sport/04/b/paok_bate_4.jpg" type="image/jpeg" medium="image" height="755" width="1200" fileSize="335603" />
+        </item>
+        <item>
+            <title>Три победы над грандами и более успешные выездные матчи. Карьера Гончаренко в ЛЧ в цифрах и фактах</title>
+            <link>https://sport.tut.by/news/football/619065.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Достижения с небольшими по европейским меркам командами тренера Виктора Гончаренко впечатляют. SPORT.TUT.BY вспоминает главное за пять лет участия белорусского специалиста в Лиге чемпионов.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/05/2/goncharenko_rtr2rw6s.jpg" type="image/jpeg" length="225916" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/619065.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 13 Dec 2018 16:18:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/05/2/goncharenko_rtr2rw6s.jpg" type="image/jpeg" medium="image" height="848" width="1200" fileSize="225916" />
+            <media:content url="https://img.tyt.by/n/sport/00/a/forma_goncharenko_001.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="105548" />
+            <media:content url="https://img.tyt.by/n/sport/0c/10/forma_goncharenko_002.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="127467" />
+            <media:content url="https://img.tyt.by/n/sport/04/6/forma_goncharenko_003.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="107678" />
+            <media:content url="https://img.tyt.by/n/sport/0e/8/forma_goncharenko_004.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="119695" />
+            <media:content url="https://img.tyt.by/n/sport/08/0/forma_goncharenko_005.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="126577" />
+            <media:content url="https://img.tyt.by/n/sport/07/8/forma_goncharenko_006.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="151152" />
+            <media:content url="https://img.tyt.by/n/sport/00/b/forma_goncharenko_007.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="103304" />
+            <media:content url="https://img.tyt.by/n/sport/00/3/forma_goncharenko_008.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="97671" />
+            <media:content url="https://img.tyt.by/n/sport/05/4/forma_goncharenko_009.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="111903" />
+            <media:content url="https://img.tyt.by/n/sport/0e/a/forma_goncharenko_010.jpg" type="image/jpeg" medium="image" height="480" width="720" fileSize="142153" />
+        </item>
+        <item>
+            <title>Гендиректор «Динамо»: Нас категорически не устраивает игра Казионова в соотношении с его зарплатой</title>
+            <link>https://sport.tut.by/news/hockey/619081.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Российский нападающий минского «Динамо» Денис Казионов повторно выставлен на драфт отказов. Хоккеист уже выставлялся на драфт 27 ноября.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/buryakina/00/7/dinamo-severstal_20181011_bur_tutby_phsl-8093.jpg" type="image/jpeg" length="298775" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/619081.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 13 Dec 2018 16:17:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/buryakina/00/7/dinamo-severstal_20181011_bur_tutby_phsl-8093.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="298775" />
+        </item>
+        <item>
+            <title>Белорусские биатлонисты заняли 12-е место в смешанной эстафете на этапе Кубка IBU</title>
+            <link>https://sport.tut.by/news/biathlon/619079.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Сборная Беларуси в составе Арины Яборовой, Инны Костюченко, Максима Воробья и Виктора Кривко заняла 12-е место в смешанной эстафете на этапе Кубка IBU в Италии.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/biathlon/">Биатлон</category>
+            <enclosure url="https://img.tyt.by/n/sport/10/8/vorobey_2017_1.jpg" type="image/jpeg" length="334958" />
+            <guid isPermaLink="true">https://sport.tut.by/news/biathlon/619079.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 13 Dec 2018 16:10:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/10/8/vorobey_2017_1.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="334958" />
+        </item>
+        <item>
+            <title>Ирина Кривко стала шестой в спринте на этапе Кубка мира по биатлону в Австрии</title>
+            <link>https://sport.tut.by/news/biathlon/619062.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Белорусская биатлонистка Ирина Кривко продолжает радовать высокими результатами на гонках Кубка мира. В спринте в Хохфильцине она стала шестой, не допустив ни одного промаха.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/biathlon/">Биатлон</category>
+            <enclosure url="https://img.tyt.by/n/sport/09/6/krivko_nyu.jpg" type="image/jpeg" length="718926" />
+            <guid isPermaLink="true">https://sport.tut.by/news/biathlon/619062.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 13 Dec 2018 16:10:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/09/6/krivko_nyu.jpg" type="image/jpeg" medium="image" height="1664" width="2500" fileSize="718926" />
+        </item>
+        <item>
+            <title>Губерниев: Биатлонистам России в Австрии предъявлены уголовные обвинения</title>
+            <link>https://sport.tut.by/news/biathlon/619043.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Телекомментатор Дмитрий Губерниев заявил, что биатлонистам сборной России в Австрии предъявлены уголовные обвинения в нарушении антидопинговых правил.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/biathlon/">Биатлон</category>
+            <enclosure url="https://img.tyt.by/n/sport/0a/7/guberniev-12321.jpg" type="image/jpeg" length="80859" />
+            <guid isPermaLink="true">https://sport.tut.by/news/biathlon/619043.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 13 Dec 2018 12:46:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0a/7/guberniev-12321.jpg" type="image/jpeg" medium="image" height="581" width="900" fileSize="80859" />
+        </item>
+        <item>
+            <title>Минское «Динамо» в феврале снова сыграет в Риге на открытом воздухе</title>
+            <link>https://sport.tut.by/news/hockey/619000.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Президент рижского «Динамо» Юрис Савицкис сообщил, что прошлогодний опыт с матчем против минского «Динамо» на открытом воздухе будет повторен.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/zamirovskiy/03/e/29_khokkey_riga_2001018_zam_tutby_phsl.jpg" type="image/jpeg" length="814104" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/619000.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 13 Dec 2018 09:44:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/zamirovskiy/03/e/29_khokkey_riga_2001018_zam_tutby_phsl.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="814104" />
+        </item>
+        <item>
+            <title>Австрийская полиция начала расследование в отношении российских биатлонистов из-за допинга</title>
+            <link>https://sport.tut.by/news/biathlon/618991.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Речь идет о спортсменах, тренерах, врачах и массажистах. Всего в приведенном Губерниевым перечне - десять фамилий.</description>
+            <atom:author>
+                <atom:name>Deutsche Welle</atom:name>
+                <atom:uri>http://www.dw-world.de/russian/</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/biathlon/">Биатлон</category>
+            <enclosure url="https://img.tyt.by/n/sport/0e/9/doping_rossiya_olimpiada.jpg" type="image/jpeg" length="247858" />
+            <guid isPermaLink="true">https://sport.tut.by/news/biathlon/618991.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 13 Dec 2018 07:45:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0e/9/doping_rossiya_olimpiada.jpg" type="image/jpeg" medium="image" height="1067" width="1600" fileSize="247858" />
+        </item>
+        <item>
+            <title>Определились все участники плей-офф Лиги чемпионов</title>
+            <link>https://sport.tut.by/news/football/618985.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>В среду прошли последние матчи группового этапа футбольной Лиги чемпионов, определившие всех участников плей-офф.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/01/10/lyon_wins.jpg" type="image/jpeg" length="566813" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/618985.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 13 Dec 2018 01:14:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/01/10/lyon_wins.jpg" type="image/jpeg" medium="image" height="822" width="1200" fileSize="566813" />
+        </item>
+        <item>
+            <title>Белорусские хоккеисты разгромили австрийцев на МЧМ в первом дивизионе</title>
+            <link>https://sport.tut.by/news/hockey/618956.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Хоккеисты молодежной (U20) сборной Беларуси разгромили Австрию на чемпионате мира в дивизионе 1А - 5:0 (1:0, 1:0, 3:0).</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/07/10/belarus_franciya_20_4.jpg" type="image/jpeg" length="193698" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618956.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 13 Dec 2018 00:13:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/07/10/belarus_franciya_20_4.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="193698" />
+            <media:content url="https://img.tyt.by/n/sport/08/8/table-u20-12-12-2018.jpg" type="image/jpeg" medium="image" height="388" width="1077" fileSize="41215" />
+        </item>
+        <item>
+            <title>Виктор Гончаренко: Обыграть два раза «Реал» и вылететь из группы с семью очками - это обидно</title>
+            <link>https://sport.tut.by/news/football/618977.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Главный тренер ЦСКА Виктор Гончаренко прокомментировал победу над «Реалом» (3:0) в матче 6-го тура группового этапа Лиги чемпионов.</description>
+            <atom:author>
+                <atom:name>Спорт-Экспресс</atom:name>
+                <atom:uri>http://www.sport-express.ru/</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/04/2/goncharenko-8-12-2018-1.jpg" type="image/jpeg" length="388239" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/618977.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Wed, 12 Dec 2018 23:43:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/04/2/goncharenko-8-12-2018-1.jpg" type="image/jpeg" medium="image" height="1365" width="2048" fileSize="388239" />
+        </item>
+        <item>
+            <title>Поле с подогревом и система антишторм. Как выглядит футбольный манеж в Бресте, который открыл Румас</title>
+            <link>https://news.tut.by/sport/618971.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Здесь есть все необходимое для круглогодичных тренировок футболистов: подогрев, светодиодное освещение, система антишторм из толстых тросов на случай сильного ветра.</description>
+            <atom:author>
+                <atom:name>TUT.BY</atom:name>
+                <atom:uri>https://news.tut.by/author/490~613.html</atom:uri>
+            </atom:author>
+            <category domain="https://news.tut.by/sport/">Спорт</category>
+            <enclosure url="https://img.tyt.by/n/regiony/06/6/rumas_brest_futbolnyj_manezh_2018_3.jpg" type="image/jpeg" length="82786" />
+            <guid isPermaLink="true">https://news.tut.by/sport/618971.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Wed, 12 Dec 2018 22:32:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/regiony/06/6/rumas_brest_futbolnyj_manezh_2018_3.jpg" type="image/jpeg" medium="image" height="449" width="840" fileSize="82786" />
+            <media:content url="https://img.tyt.by/n/regiony/10/c/rumas_brest_futbolnyj_manezh_2018_2.jpg" type="image/jpeg" medium="image" height="354" width="840" fileSize="52532" />
+            <media:content url="https://img.tyt.by/n/regiony/06/8/rumas_brest_futbolnyj_manezh_2018_1.jpg" type="image/jpeg" medium="image" height="541" width="840" fileSize="107284" />
+            <media:content url="https://img.tyt.by/n/regiony/00/5/rumas_brest_futbolnyj_manezh_2018_4.jpg" type="image/jpeg" medium="image" height="524" width="840" fileSize="97302" />
+        </item>
+        <item>
+            <title>Гандболисты БГК одержали третью подряд победу в SEHA-лиге</title>
+            <link>https://sport.tut.by/news/handball/618969.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Гандболисты БГК имени Мешкова обыграли 12 декабря сербский «Железничар» в домашнем поединке SEHA-лиги. Это третья подряд победа брестчан в этом турнире.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/handball/">Гандбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/0b/1/bgk-zheleznichar-12-12-2018-1.jpg" type="image/jpeg" length="282497" />
+            <guid isPermaLink="true">https://sport.tut.by/news/handball/618969.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Wed, 12 Dec 2018 22:23:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0b/1/bgk-zheleznichar-12-12-2018-1.jpg" type="image/jpeg" medium="image" height="533" width="800" fileSize="282497" />
+            <media:content url="https://img.tyt.by/n/sport/03/6/seha-table-12-12-2018.jpg" type="image/jpeg" medium="image" height="321" width="575" fileSize="116241" />
+        </item>
+        <item>
+            <title>Басков: Минское «Динамо» само не понимает, что происходит с Пулккиненом</title>
+            <link>https://sport.tut.by/news/hockey/618968.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Генеральный директор минского «Динамо» Дмитрий Басков заявил, что клуб пытается разобраться в ситуации с финским форвардом Теему Пулккиненом.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/buryakina/02/1/dinamo-sibir_20180624_bur_tutby_phsl-0041.jpg" type="image/jpeg" length="238962" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618968.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Wed, 12 Dec 2018 21:29:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/buryakina/02/1/dinamo-sibir_20180624_bur_tutby_phsl-0041.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="238962" />
+        </item>
+        <item>
+            <title>ЦСКА Виктора Гончаренко разгромил в гостях «Реал», но занял последнее место в группе</title>
+            <link>https://sport.tut.by/news/football/618944.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Московский ЦСКА под руководством белорусского тренера Виктора Гончаренко проводит последний матч группового этапа Лиги чемпионов.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/0e/7/real_cska_3.jpg" type="image/jpeg" length="145209" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/618944.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Wed, 12 Dec 2018 20:41:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0e/7/real_cska_3.jpg" type="image/jpeg" medium="image" height="683" width="1024" fileSize="145209" />
+        </item>
+        <item>
+            <title>«Решить исход способна любая мелочь». Бага - о последней игре БАТЭ в Лиге Европы в 2018 году</title>
+            <link>https://sport.tut.by/news/football/618960.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>На стадионе «Тумба» в Салониках завершилась пресс-конференция с участием главного тренера БАТЭ Алексея Баги и защитника Захара Волкова, посвященная четверговому лигоевропейскому поединку против греческого ПАОКа.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/02/10/press_conference_2018_12_12_1-baga-alex-volkov-zahar.jpg" type="image/jpeg" length="143442" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/618960.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Wed, 12 Dec 2018 20:03:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/02/10/press_conference_2018_12_12_1-baga-alex-volkov-zahar.jpg" type="image/jpeg" medium="image" height="349" width="520" fileSize="143442" />
+            <media:content url="https://img.tyt.by/n/sport/05/c/press_conference_2018_12_12_2-baga-alex.jpg" type="image/jpeg" medium="image" height="349" width="520" fileSize="158122" />
+            <media:content url="https://img.tyt.by/n/sport/01/d/press_conference_2018_12_12_3-volkov-zahar.jpg" type="image/jpeg" medium="image" height="349" width="520" fileSize="139384" />
+        </item>
+        <item>
+            <title>15 медалей ЧЕ, ЧМ и ОИ на всех. Известны соперницы женской сборной Беларуси на Евробаскете-2019</title>
+            <link>https://sport.tut.by/news/basketball/618932.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>В столице Сербии Белграде прошла жеребьевка групповой стадии женского чемпионата Европы, который состоится с 27 июня по 7 июля 2019 года.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/basketball/">Баскетбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/08/b/belarus-basket-woman-2018-1.jpg" type="image/jpeg" length="224380" />
+            <guid isPermaLink="true">https://sport.tut.by/news/basketball/618932.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Wed, 12 Dec 2018 15:56:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/08/b/belarus-basket-woman-2018-1.jpg" type="image/jpeg" medium="image" height="506" width="759" fileSize="224380" />
+            <media:content url="https://img.tyt.by/n/sport/05/2/eurobasket-2019-draw-12-12-2018.jpg" type="image/jpeg" medium="image" height="559" width="897" fileSize="188999" />
+        </item>
+        <item>
+            <title>Илья Шиманович завоевал серебро ЧМ на короткой воде на 100 м брассом</title>
+            <link>https://sport.tut.by/news/swimming/618927.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Белорусский пловец Илья Шиманович завоевал серебро чемпионата мира на короткой воде на дистанции 100 метров брассом в китайском Ханчжоу.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/swimming/">Водные виды спорта</category>
+            <enclosure url="https://img.tyt.by/n/sport/02/5/shimanovich-8-04-2018-3.jpg" type="image/jpeg" length="62133" />
+            <guid isPermaLink="true">https://sport.tut.by/news/swimming/618927.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Wed, 12 Dec 2018 15:27:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/02/5/shimanovich-8-04-2018-3.jpg" type="image/jpeg" medium="image" height="337" width="458" fileSize="62133" />
+            <media:content url="https://img.tyt.by/n/sport/0d/f/shimanovich-illya-12-11-2015-1.jpg" type="image/jpeg" medium="image" height="505" width="700" fileSize="66784" />
+        </item>
+        <item>
+            <title>Лучший бомбардир «Слуцка» переходит в клуб из Греции</title>
+            <link>https://sport.tut.by/news/football/618914.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Ожидается, что нападающий прибудет в Грецию на следующей неделе для подписания контракта.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/0e/f/shikavka-2018-1.jpg" type="image/jpeg" length="206516" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/618914.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Wed, 12 Dec 2018 14:32:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0e/f/shikavka-2018-1.jpg" type="image/jpeg" medium="image" height="853" width="1280" fileSize="206516" />
+            <media:content url="https://img.tyt.by/n/sport/0b/d/bamba-2015-1.png" type="image/png" medium="image" height="720" width="1280" fileSize="809633" />
+        </item>
+        <item>
+            <title>Овечкин с хет-триком стал первой звездой дня в НХЛ и побил рекорды Буре и Гретцки</title>
+            <link>https://sport.tut.by/news/hockey/618874.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Капитан «Вашингтона» Александр Овечкин забросил 3 шайбы в победном матче с «Детройтом» (6:2) и был признан первой звездой игрового дня в чемпионате НХЛ.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/06/7/ovechkin-11-12-2018-1.jpg" type="image/jpeg" length="82404" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618874.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Wed, 12 Dec 2018 11:55:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/06/7/ovechkin-11-12-2018-1.jpg" type="image/jpeg" medium="image" height="540" width="960" fileSize="82404" />
+            <media:content url="https://img.tyt.by/n/sport/0d/f/ovechkin-11-12-2018-2.jpg" type="image/jpeg" medium="image" height="675" width="1200" fileSize="117400" />
+        </item>
+        <item>
+            <title>«Хочу стать лучшим футболистом мира». 6-летнего Лешу позвали в «Лучше всех», где он забивал Акинфееву</title>
+            <link>https://sport.tut.by/news/aboutsport/618636.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Папа мальчика и его тренер по фристайлу рассказали SPORT.TUT.BY, как они растят звезду мирового футбола и как Лешу звали на российское ТВ.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <atom:author>
+                <atom:name>Юрий Михалевич</atom:name>
+                <atom:uri>https://news.tut.by/author/1590-yuriy-mikhalevich.html</atom:uri>
+            </atom:author>
+            <atom:author>
+                <atom:name>Фото: Ольга Шукайло</atom:name>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/aboutsport/">Околоспорт</category>
+            <enclosure url="https://img.tyt.by/n/sport/09/9/lesha_mayorov_2_large.gif" type="image/gif" length="6333429" />
+            <guid isPermaLink="true">https://sport.tut.by/news/aboutsport/618636.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Wed, 12 Dec 2018 07:29:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/09/9/lesha_mayorov_2_large.gif" type="image/gif" medium="image" height="270" width="480" fileSize="6333429" />
+            <media:content url="https://img.tyt.by/n/shukaylo/0c/c/lesha_mai_orov_20181211_shuk_tutby_phsl_7560.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="420605" />
+            <media:content url="https://img.tyt.by/n/shukaylo/0a/4/lesha_mai_orov_20181211_shuk_tutby_phsl_7536.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="430472" />
+            <media:content url="https://img.tyt.by/n/shukaylo/09/9/lesha_mai_orov_20181211_shuk_tutby_phsl_6705.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="357963" />
+            <media:content url="https://img.tyt.by/n/sport/10/10/lesha_mayorov_3_large.gif" type="image/gif" medium="image" height="270" width="480" fileSize="8672291" />
+            <media:content url="https://img.tyt.by/n/shukaylo/04/7/lesha_mai_orov_20181211_shuk_tutby_phsl_6493.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="329485" />
+            <media:content url="https://img.tyt.by/n/shukaylo/03/6/lesha_mai_orov_20181211_shuk_tutby_phsl_6979.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="283451" />
+            <media:content url="https://img.tyt.by/n/shukaylo/0a/1/lesha_mai_orov_20181211_shuk_tutby_phsl_7289.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="396280" />
+            <media:content url="https://img.tyt.by/n/shukaylo/0b/8/lesha_mai_orov_20181211_shuk_tutby_phsl_7508.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="411317" />
+            <media:content url="https://img.tyt.by/n/shukaylo/06/5/lesha_mai_orov_20181211_shuk_tutby_phsl_6679.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="431481" />
+            <media:content url="https://img.tyt.by/n/shukaylo/0b/8/lesha_mai_orov_20181211_shuk_tutby_phsl_7469.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="349581" />
+            <media:content url="https://img.tyt.by/n/shukaylo/0f/6/lesha_mai_orov_20181211_shuk_tutby_phsl_7388.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="393806" />
+        </item>
+        <item>
+            <title>«Ливерпуль» и «Тоттенхэм» вырвали путевки в плей-офф Лиги чемпионов</title>
+            <link>https://sport.tut.by/news/football/618847.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Английские клубы «Ливерпуль» и «Тоттенхэм» в последнем туре группового этапа футбольной Лиги чемпионов вырвали путевки в плей-офф турнира.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/05/b/salah_happy.jpg" type="image/jpeg" length="324756" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/618847.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Wed, 12 Dec 2018 00:57:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/05/b/salah_happy.jpg" type="image/jpeg" medium="image" height="843" width="1200" fileSize="324756" />
+        </item>
+        <item>
+            <title>«Грифоны» выиграли городской этап «Золотой шайбы», Николай Лукашенко назван лучшим форвардом</title>
+            <link>https://sport.tut.by/news/hockey/618837.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>«Грифоны» в четвертый раз стали победителями минского городского этапа «Золотой шайбы» и вышли в финал республиканских соревнований в старшей возрастной группе.</description>
+            <atom:author>
+                <atom:name>ОНТ</atom:name>
+                <atom:uri>http://www.ont.by/</atom:uri>
+            </atom:author>
+            <atom:author>
+                <atom:name>СТВ</atom:name>
+                <atom:uri>http://www.ctv.by</atom:uri>
+            </atom:author>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/0f/5/zolotaya_shayba-kolya-lukashenko-11-12-2018.jpg" type="image/jpeg" length="74581" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618837.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Tue, 11 Dec 2018 23:21:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0f/5/zolotaya_shayba-kolya-lukashenko-11-12-2018.jpg" type="image/jpeg" medium="image" height="440" width="800" fileSize="74581" />
+            <media:content url="https://img.tyt.by/n/sport/09/0/zolotaya_shayba-dmitri-baskov-11-12-2018-2.jpg" type="image/jpeg" medium="image" height="440" width="800" fileSize="54569" />
+            <media:content url="https://img.tyt.by/n/sport/08/0/zolotaya_shayba-daniil-baskov-11-12-2018-1.jpg" type="image/jpeg" medium="image" height="440" width="800" fileSize="91068" />
+            <media:content url="https://img.tyt.by/n/sport/07/2/zolotaya_shayba-dmitri-baskov-11-12-2018-1.jpg" type="image/jpeg" medium="image" height="440" width="800" fileSize="99911" />
+        </item>
+        <item>
+            <title>«Динамовское настроение меняется в лучшую сторону». Сидоренко - об атмосфере в сборной Беларуси</title>
+            <link>https://sport.tut.by/news/hockey/618826.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Сборная Беларуси под руководством Андрея Сидоренко отправится в Норвегию, где сыграет в турнире MECA Hockey Games.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/0e/4/sidorenko-11-12-2018-1.jpg" type="image/jpeg" length="89767" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618826.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Tue, 11 Dec 2018 19:17:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0e/4/sidorenko-11-12-2018-1.jpg" type="image/jpeg" medium="image" height="413" width="640" fileSize="89767" />
+            <media:content url="https://img.tyt.by/n/sport/10/5/belarus-11-12-2018-1.jpg" type="image/jpeg" medium="image" height="413" width="640" fileSize="140644" />
+        </item>
+        <item>
+            <title>Вошел в историю. Трансгендер впервые выиграл боксерский поединок у мужчины</title>
+            <link>https://sport.tut.by/news/box/618801.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>До 2013 года Патрисио Мануэль был девушкой со схожим именем - Патрисия. Она пришла в бокс в возрасте 17 лет.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/box/">Бокс</category>
+            <enclosure url="https://img.tyt.by/n/360_foto_video/0a/5/transgender_boks.gif" type="image/gif" length="7124611" />
+            <guid isPermaLink="true">https://sport.tut.by/news/box/618801.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Tue, 11 Dec 2018 16:46:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/360_foto_video/0a/5/transgender_boks.gif" type="image/gif" medium="image" height="400" width="600" fileSize="7124611" />
+        </item>
+        <item>
+            <title>Суд постановил не считать в России легионерами спортсменов из стран ЕАЭС</title>
+            <link>https://sport.tut.by/news/football/618795.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Еще летом 2017 года Виталий Мутко заявил, что Россия не будет отменять лимит на легионеров, несмотря на решение ЕАЭС.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/0f/b/kornilenko-1-12-2016-1.jpg" type="image/jpeg" length="62883" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/618795.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Tue, 11 Dec 2018 16:15:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0f/b/kornilenko-1-12-2016-1.jpg" type="image/jpeg" medium="image" height="360" width="640" fileSize="62883" />
+            <media:content url="https://img.tyt.by/n/sport/0e/e/kornilenko-2017-3344.jpg" type="image/jpeg" medium="image" height="689" width="1000" fileSize="98059" />
+        </item>
+        <item>
+            <title>Молодежная сборная Беларуси по футболу узнала соперников в квалификации Евро-2021</title>
+            <link>https://sport.tut.by/news/football/618762.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Сегодня в швейцарском Ньоне прошла жеребьевка квалификации молодежного Евро-2021.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/04/6/u21-2021-qualifyingdraw.jpg" type="image/jpeg" length="32287" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/618762.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Tue, 11 Dec 2018 14:33:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/04/6/u21-2021-qualifyingdraw.jpg" type="image/jpeg" medium="image" height="358" width="680" fileSize="32287" />
+            <media:content url="https://img.tyt.by/n/sport/08/9/720x380_u21draw_gruppa7.jpg" type="image/jpeg" medium="image" height="380" width="720" fileSize="144887" />
+            <media:content url="https://img.tyt.by/n/sport/0d/0/720x380_u17_draw2018_elite_89b9580fd417f7e87187a879ace01a59.jpg" type="image/jpeg" medium="image" height="358" width="680" fileSize="53231" />
+        </item>
+        <item>
+            <title>Лукашенко поблагодарил Минспорт России за снятие статуса легионеров с белорусских хоккеистов</title>
+            <link>https://sport.tut.by/news/hockey/618748.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Глава Минспорта РФ подтвердил, что во вторник в Минске между спортивными ведомствами двух государств будет подписана двухлетняя программа сотрудничества.</description>
+            <atom:author>
+                <atom:name>ТАСС</atom:name>
+                <atom:uri>http://www.itar-tass.com/</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/02/b/lukashenko-14-04-2018-5.jpg" type="image/jpeg" length="98789" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618748.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Tue, 11 Dec 2018 13:06:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/02/b/lukashenko-14-04-2018-5.jpg" type="image/jpeg" medium="image" height="450" width="665" fileSize="98789" />
+        </item>
+        <item>
+            <title>Тренер минского «Динамо»: Мы должны давать спектакль</title>
+            <link>https://sport.tut.by/news/hockey/618702.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Главный тренер минского «Динамо» Андрей Сидоренко после домашнего поражения от «Витязя» рассказал о вероятности обмена финского легионера Теему Пулккинена, оценил игру американского новобранца Дэвида Бута и ответил на предложение всей командой сходить в церковь.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/02/1/sidorenko-10-12-2018-1.jpg" type="image/jpeg" length="1306612" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618702.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Tue, 11 Dec 2018 09:44:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/02/1/sidorenko-10-12-2018-1.jpg" type="image/jpeg" medium="image" height="1333" width="2000" fileSize="1306612" />
+            <media:content url="https://img.tyt.by/n/sport/01/5/dinamo-5matchei-11-12-2018.jpg" type="image/jpeg" medium="image" height="489" width="1021" fileSize="93006" />
+            <media:content url="https://img.tyt.by/n/sport/0c/10/able-khl-10-12-2018-1.jpg" type="image/jpeg" medium="image" height="438" width="1004" fileSize="71665" />
+            <media:content url="https://img.tyt.by/n/sport/02/1/able-khl-10-12-2018-2.jpg" type="image/jpeg" medium="image" height="428" width="1004" fileSize="71167" />
+        </item>
+        <item>
+            <title>«Команда умеет правильно направить свою энергетику». Кравченко - о второй победе «молодежки» на МЧМ</title>
+            <link>https://sport.tut.by/news/hockey/618680.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Дмитрий Кравченко подвел итоги поединка с французами, в котором его команда одержала вторую кряду победу на чемпионате мира в дивизионе IA.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/01/6/perepehin-kravchenko-10-12-2018-1.jpg" type="image/jpeg" length="353900" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618680.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Mon, 10 Dec 2018 23:27:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/01/6/perepehin-kravchenko-10-12-2018-1.jpg" type="image/jpeg" medium="image" height="853" width="1280" fileSize="353900" />
+            <media:content url="https://img.tyt.by/n/sport/09/a/belarus-u20-10-12-2018-1.jpg" type="image/jpeg" medium="image" height="853" width="1280" fileSize="443836" />
+        </item>
+        <item>
+            <title>В Перми хоккеист умер во время матча</title>
+            <link>https://sport.tut.by/news/hockey/618679.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Игрок клуба «Ястребы» Ночной хоккейной лиги Алексей Захаров умер во время матча с командой ПКС.</description>
+            <atom:author>
+                <atom:name>Lenta.ru</atom:name>
+                <atom:uri>http://lenta.ru/</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/00/c/zaharov-alexei-2018-1.jpg" type="image/jpeg" length="22162" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618679.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Mon, 10 Dec 2018 23:01:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/00/c/zaharov-alexei-2018-1.jpg" type="image/jpeg" medium="image" height="434" width="770" fileSize="22162" />
+        </item>
+        <item>
+            <title>«Меня это абсолютно не волнует». Юрий Чиж - о смене владельца минского «Динамо»</title>
+            <link>https://sport.tut.by/news/football/618677.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Владелец минского «Динамо» Юрий Чиж признался, что не владеет информацией о новом хозяине клуба.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/00/b/chizh-2015-1.jpg" type="image/jpeg" length="59235" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/618677.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Mon, 10 Dec 2018 22:40:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/00/b/chizh-2015-1.jpg" type="image/jpeg" medium="image" height="524" width="700" fileSize="59235" />
+        </item>
+        <item>
+            <title>Хоккеисты сборной Беларуси крупно победили Францию на молодежном чемпионате мира</title>
+            <link>https://sport.tut.by/news/hockey/618638.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Хоккеисты молодежной (U20) сборной Беларуси, совершив в воскресенье невероятный камбэк со счета 0:3 в поединке со сверстниками из Норвегии на чемпионате мира в дивизионе IA в германском Фюссене, сегодня продолжили выступление на турнире матчем против команды Франции.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/03/4/belarus_franciya_20_1.jpg" type="image/jpeg" length="200711" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618638.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Mon, 10 Dec 2018 19:38:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/03/4/belarus_franciya_20_1.jpg" type="image/jpeg" medium="image" height="800" width="1199" fileSize="200711" />
+            <media:content url="https://img.tyt.by/n/sport/07/10/belarus_franciya_20_4.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="193698" />
+            <media:content url="https://img.tyt.by/n/sport/06/7/belarus_franciya_20_2.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="205604" />
+            <media:content url="https://img.tyt.by/n/sport/04/a/belarus_franciya_20_3.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="170275" />
+            <media:content url="https://img.tyt.by/n/sport/0d/0/table-u20-10-12-2018-1.jpg" type="image/jpeg" medium="image" height="480" width="1069" fileSize="56662" />
+        </item>
+        <item>
+            <title>Минское «Динамо» потерпело дома «сухое» поражение от «Витязя»</title>
+            <link>https://sport.tut.by/news/hockey/618603.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>В последнем перед международной паузой матче минское «Динамо» проиграло дома «Витязю» - 0:1 (0:1, 0:0, 0:0).</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/buryakina/0d/9/dinamo_vityaz_20181126_bur_tutby_phsl-0348.jpg" type="image/jpeg" length="472812" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618603.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Mon, 10 Dec 2018 19:21:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/buryakina/0d/9/dinamo_vityaz_20181126_bur_tutby_phsl-0348.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="472812" />
+            <media:content url="https://img.tyt.by/n/sport/0e/10/dinamo_vityaz_20181126_bur_tutby_phsl-0400.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="441916" />
+            <media:content url="https://img.tyt.by/n/buryakina/08/4/dinamo_vityaz_20181126_bur_tutby_phsl-0286-2.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="279070" />
+            <media:content url="https://img.tyt.by/n/buryakina/05/d/dinamo_vityaz_20181126_bur_tutby_phsl-0305-2.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="420148" />
+            <media:content url="https://img.tyt.by/n/buryakina/0f/4/dinamo_vityaz_20181126_bur_tutby_phsl-0329.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="350808" />
+            <media:content url="https://img.tyt.by/n/buryakina/0d/10/dinamo_vityaz_20181126_bur_tutby_phsl-0346-3.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="532367" />
+            <media:content url="https://img.tyt.by/n/buryakina/08/9/dinamo_vityaz_20181126_bur_tutby_phsl-0373.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="432457" />
+            <media:content url="https://img.tyt.by/n/buryakina/02/1/dinamo_vityaz_20181126_bur_tutby_phsl-0376.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="398570" />
+            <media:content url="https://img.tyt.by/n/buryakina/05/a/dinamo_vityaz_20181126_bur_tutby_phsl-0413.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="332651" />
+            <media:content url="https://img.tyt.by/n/buryakina/08/4/dinamo_vityaz_20181126_bur_tutby_phsl-0440.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="253495" />
+            <media:content url="https://img.tyt.by/n/buryakina/0f/9/dinamo_vityaz_20181126_bur_tutby_phsl-0449.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="379894" />
+            <media:content url="https://img.tyt.by/n/buryakina/0c/1/dinamo_vityaz_20181126_bur_tutby_phsl-0456.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="389202" />
+            <media:content url="https://img.tyt.by/n/buryakina/02/0/dinamo_vityaz_20181126_bur_tutby_phsl-0462.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="418775" />
+            <media:content url="https://img.tyt.by/n/buryakina/03/f/dinamo_vityaz_20181126_bur_tutby_phsl-0474.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="389140" />
+            <media:content url="https://img.tyt.by/n/buryakina/01/2/dinamo_vityaz_20181126_bur_tutby_phsl-0493.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="396602" />
+            <media:content url="https://img.tyt.by/n/buryakina/00/5/dinamo_vityaz_20181126_bur_tutby_phsl-0510.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="416024" />
+            <media:content url="https://img.tyt.by/n/buryakina/0b/a/dinamo_vityaz_20181126_bur_tutby_phsl-0517.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="364838" />
+            <media:content url="https://img.tyt.by/n/buryakina/00/8/dinamo_vityaz_20181126_bur_tutby_phsl-0523-2.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="508092" />
+            <media:content url="https://img.tyt.by/n/buryakina/00/c/dinamo_vityaz_20181126_bur_tutby_phsl-0528.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="409903" />
+            <media:content url="https://img.tyt.by/n/buryakina/04/4/dinamo_vityaz_20181126_bur_tutby_phsl-0530.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="278739" />
+            <media:content url="https://img.tyt.by/n/buryakina/00/8/dinamo_vityaz_20181126_bur_tutby_phsl-0541.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="411265" />
+            <media:content url="https://img.tyt.by/n/buryakina/09/b/dinamo_vityaz_20181126_bur_tutby_phsl-0546.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="352824" />
+            <media:content url="https://img.tyt.by/n/buryakina/08/1/dinamo_vityaz_20181126_bur_tutby_phsl-0565.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="388188" />
+            <media:content url="https://img.tyt.by/n/buryakina/0b/8/dinamo_vityaz_20181126_bur_tutby_phsl-0570.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="485183" />
+            <media:content url="https://img.tyt.by/n/buryakina/10/f/dinamo_vityaz_20181126_bur_tutby_phsl-0577.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="430300" />
+            <media:content url="https://img.tyt.by/n/buryakina/0e/a/dinamo_vityaz_20181126_bur_tutby_phsl-0588.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="469553" />
+            <media:content url="https://img.tyt.by/n/buryakina/07/e/dinamo_vityaz_20181126_bur_tutby_phsl-0596.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="329573" />
+        </item>
+        <item>
+            <title>Брутальный Макгрегор и олдскульный Хабиб. 10 лучших снимков спортсменов в Instagram за неделю</title>
+            <link>https://sport.tut.by/news/biathlon/618575.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Что на прошедшей неделе постили в инстаграм звезды спорта.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/biathlon/">Биатлон</category>
+            <enclosure url="https://img.tyt.by/n/09/10/konor1.png" type="image/png" length="429906" />
+            <guid isPermaLink="true">https://sport.tut.by/news/biathlon/618575.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Mon, 10 Dec 2018 12:54:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/09/10/konor1.png" type="image/png" medium="image" height="480" width="722" fileSize="429906" />
+        </item>
+        <item>
+            <title>Украинская певица Ани Лорак вошла в команду звездных послов II Европейских игр в Минске</title>
+            <link>https://sport.tut.by/news/aboutsport/618554.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Известная эстрадная исполнительница, народная артистка Украины Ани Лорак (Каролина Куек) стала обладательницей почетного звания «Звездный посол II Европейских игр 2019 года».</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/aboutsport/">Околоспорт</category>
+            <enclosure url="https://img.tyt.by/n/sport/10/b/lorak-ani-112211.jpg" type="image/jpeg" length="61480" />
+            <guid isPermaLink="true">https://sport.tut.by/news/aboutsport/618554.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Mon, 10 Dec 2018 12:07:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/10/b/lorak-ani-112211.jpg" type="image/jpeg" medium="image" height="474" width="525" fileSize="61480" />
+            <media:content url="https://img.tyt.by/n/sport/07/b/katulin-lorak-9-12-2018-1.jpg" type="image/jpeg" medium="image" height="506" width="900" fileSize="62874" />
+        </item>
+        <item>
+            <title>Новая работа Бьорндалена и нервы Фуркада. Чем запомнился первый этап Кубка мира по биатлону</title>
+            <link>https://sport.tut.by/news/biathlon/618545.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>SPORT.TUT.BY акцентирует внимание на самых интересных эпизодах первого этапа.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <atom:author>
+                <atom:name>Виктория Ковальчук</atom:name>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/biathlon/">Биатлон</category>
+            <enclosure url="https://img.tyt.by/n/sport/01/5/marten_furkad_2.jpg" type="image/jpeg" length="62924" />
+            <guid isPermaLink="true">https://sport.tut.by/news/biathlon/618545.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Mon, 10 Dec 2018 11:29:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/01/5/marten_furkad_2.jpg" type="image/jpeg" medium="image" height="640" width="961" fileSize="62924" />
+            <media:content url="https://img.tyt.by/n/sport/09/6/krivko_nyu.jpg" type="image/jpeg" medium="image" height="1664" width="2500" fileSize="718926" />
+            <media:content url="https://img.tyt.by/n/sport/04/a/makaraynen_khanty.jpg" type="image/jpeg" medium="image" height="682" width="1024" fileSize="124514" />
+        </item>
+        <item>
+            <title>«Юность» обыграла «Неман» в чемпионате Беларуси по хоккею</title>
+            <link>https://sport.tut.by/news/hockey/618502.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Лидер хоккейной экстралиги минская «Юность» выиграла у чемпиона Беларуси двух минувших сезонов гродненского «Немана» в домашнем матче на льду столичной «Чижовка-Арены».</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/08/0/junost-2-10-2018-1.jpg" type="image/jpeg" length="450967" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618502.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Mon, 10 Dec 2018 09:56:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/08/0/junost-2-10-2018-1.jpg" type="image/jpeg" medium="image" height="853" width="1280" fileSize="450967" />
+            <media:content url="https://img.tyt.by/n/sport/01/10/junost-neman-9-12-2018-1.jpg" type="image/jpeg" medium="image" height="1052" width="1280" fileSize="502065" />
+            <media:content url="https://img.tyt.by/n/sport/03/2/extraliga-a-9-12-2018.jpg" type="image/jpeg" medium="image" height="1080" width="1080" fileSize="744752" />
+        </item>
+        <item>
+            <title>Сборная Беларуси завоевала бронзу в смешанной эстафете на чемпионате Европы по кроссу</title>
+            <link>https://sport.tut.by/news/athletics/618529.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Представители Беларуси завоевали бронзовую медаль в смешанной эстафете на чемпионате Европы по кроссу, который прошел в Тилбурге (Нидерланды).</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/athletics/">Легкая атлетика</category>
+            <enclosure url="https://img.tyt.by/n/sport/0a/1/cross-belarus-estafeta-bronza-9-12-2018-1.jpg" type="image/jpeg" length="524398" />
+            <guid isPermaLink="true">https://sport.tut.by/news/athletics/618529.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Mon, 10 Dec 2018 08:23:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0a/1/cross-belarus-estafeta-bronza-9-12-2018-1.jpg" type="image/jpeg" medium="image" height="1200" width="1200" fileSize="524398" />
+        </item>
+        <item>
+            <title>«Проявили мужество, бились до конца». Кравченко - о старте «молодежки» на МЧМ и переломе в игре при счете 0:3</title>
+            <link>https://sport.tut.by/news/hockey/618525.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Главный тренер молодежной (U20) сборной Беларуси Дмитрий Кравченко прокомментировал волевую победу его команды в стартовом матче на молодежном чемпионате мира в дивизионе I в германском Фюссене.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/0a/9/kravchenko_dmitry.jpg" type="image/jpeg" length="543027" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618525.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Mon, 10 Dec 2018 07:46:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0a/9/kravchenko_dmitry.jpg" type="image/jpeg" medium="image" height="1840" width="1960" fileSize="543027" />
+            <media:content url="https://img.tyt.by/n/sport/01/e/table-u20-9-12-2018-1.jpg" type="image/jpeg" medium="image" height="387" width="1060" fileSize="42335" />
+        </item>
+        <item>
+            <title>Белорусские хоккеисты отыгрались с 0:3 и победили норвежцев в дивизионе 1А молодежного ЧМ</title>
+            <link>https://sport.tut.by/news/hockey/618517.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Белорусские хоккеисты с суперволевой победы начали свое выступление на молодежном чемпионате мира в дивизионе 1А (второй по силе). Подопечные Дмитрия Кравченко выиграли у Норвегии - 5:3 (0:2, 1:1, 4:0).</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/0c/a/drozdov_hockey.jpg" type="image/jpeg" length="323723" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618517.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Mon, 10 Dec 2018 00:16:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0c/a/drozdov_hockey.jpg" type="image/jpeg" medium="image" height="427" width="640" fileSize="323723" />
+        </item>
+        <item>
+            <title>Гандболисты БГК имени Мешкова одержали три выездные победы за два дня</title>
+            <link>https://sport.tut.by/news/handball/618511.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Победой в македонской столице гандболисты БГК имени Мешкова завершили ударную игровую неделю.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/handball/">Гандбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/02/e/metalurg-bgk-9-12-2018.jpg" type="image/jpeg" length="324559" />
+            <guid isPermaLink="true">https://sport.tut.by/news/handball/618511.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sun, 09 Dec 2018 23:08:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/02/e/metalurg-bgk-9-12-2018.jpg" type="image/jpeg" medium="image" height="532" width="800" fileSize="324559" />
+            <media:content url="https://img.tyt.by/n/sport/07/e/seha-table-9-12-2018.jpg" type="image/jpeg" medium="image" height="325" width="570" fileSize="119418" />
+            <media:content url="https://img.tyt.by/n/sport/03/b/belarus-handball-table-9-12-2018.jpg" type="image/jpeg" medium="image" height="225" width="570" fileSize="80162" />
+        </item>
+        <item>
+            <title>Волейболистки «Минчанки» потерпели четвертое поражение в пяти матчах суперлиги чемпионата России</title>
+            <link>https://sport.tut.by/news/volleyball/618499.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Волейболистки «Минчанки» потерпели четвертое поражение в пяти матчах со старта открытого чемпионата России в суперлиге.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/volleyball/">Волейбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/0a/a/cannes-minchanka-21-11-2018-1.jpg" type="image/jpeg" length="139881" />
+            <guid isPermaLink="true">https://sport.tut.by/news/volleyball/618499.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sun, 09 Dec 2018 22:10:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0a/a/cannes-minchanka-21-11-2018-1.jpg" type="image/jpeg" medium="image" height="682" width="1024" fileSize="139881" />
+            <media:content url="https://img.tyt.by/n/sport/08/10/volley-superliga-9-12-2018-1.jpg" type="image/jpeg" medium="image" height="373" width="948" fileSize="92093" />
+        </item>
+        <item>
+            <title>Кривко заняла седьмое место в гонке преследования, Кручинкина отстала на круг</title>
+            <link>https://sport.tut.by/news/biathlon/618494.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Белорусская биатлонистка Ирина Кривко показала лучший результат сборной на этапе Кубка мира в Поклюке, заняв седьмое место в гонке преследования.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/biathlon/">Биатлон</category>
+            <enclosure url="https://img.tyt.by/n/sport/02/10/krivko_2017-1.jpg" type="image/jpeg" length="180652" />
+            <guid isPermaLink="true">https://sport.tut.by/news/biathlon/618494.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sun, 09 Dec 2018 16:39:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/02/10/krivko_2017-1.jpg" type="image/jpeg" medium="image" height="854" width="1280" fileSize="180652" />
+        </item>
+        <item>
+            <title>В Минске после Европейских игр может появиться новый футбольный манеж</title>
+            <link>https://sport.tut.by/news/football/618496.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Прозвучало предложение о возведении крытого воздухоопорного сооружения, которое впоследствии будет использоваться в качестве футбольного манежа.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/shukaylo/06/1/sergei_rumas_nedelya_predprinimatelstva_20181112_shuk_tutby_phsl_2182.jpg" type="image/jpeg" length="285853" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/618496.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sun, 09 Dec 2018 15:19:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/shukaylo/06/1/sergei_rumas_nedelya_predprinimatelstva_20181112_shuk_tutby_phsl_2182.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="285853" />
+        </item>
+        <item>
+            <title>Йоханнес Бё с преимуществом в 0,1 секунды выиграл преследование в Поклюке</title>
+            <link>https://sport.tut.by/news/biathlon/618493.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Норвежский биатлонист Йоханнес Бё в драматичной борьбе выиграл гонку преследования на этапе Кубка мира в Поклюке.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/biathlon/">Биатлон</category>
+            <enclosure url="https://img.tyt.by/n/sport/0b/10/johannes_thingnes_boe_2014-12-14.jpg" type="image/jpeg" length="74740" />
+            <guid isPermaLink="true">https://sport.tut.by/news/biathlon/618493.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sun, 09 Dec 2018 14:23:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0b/10/johannes_thingnes_boe_2014-12-14.jpg" type="image/jpeg" medium="image" height="612" width="800" fileSize="74740" />
+        </item>
+        <item>
+            <title>Хоккеист «Локомотива» за удар белорусского судьи получил длительную дисквалификацию и штраф 4500 долларов</title>
+            <link>https://sport.tut.by/news/hockey/618483.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Хоккеист «Локомотива» Артур Каюмов, ударивший белорусского лайнсмена Ивана Дедюлю в матче с «Йокеритом», получил длительную дисквалификацию и денежный штраф.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/09/6/dedyulya.jpg" type="image/jpeg" length="167099" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618483.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sun, 09 Dec 2018 08:51:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/09/6/dedyulya.jpg" type="image/jpeg" medium="image" height="375" width="500" fileSize="167099" />
+        </item>
+        <item>
+            <title>Белорус Андрей Казусенок стал победителем абсолютного Кубка мира по самбо в Сочи</title>
+            <link>https://sport.tut.by/news/combat/618479.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Белорус Андрей Казусенок стал победителем абсолютного Кубка мира по самбо на призы Союзного государства Беларуси и России, посвященного 80-летию самбо. Состязания прошли 8 декабря в «Адлер-Арене» в Сочи.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/combat/">Единоборства</category>
+            <enclosure url="https://img.tyt.by/n/sport/0d/9/kazusenok-8-12-2018-1.jpg" type="image/jpeg" length="221362" />
+            <guid isPermaLink="true">https://sport.tut.by/news/combat/618479.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 08 Dec 2018 23:51:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0d/9/kazusenok-8-12-2018-1.jpg" type="image/jpeg" medium="image" height="959" width="1280" fileSize="221362" />
+        </item>
+        <item>
+            <title>ЦСКА под руководством Гончаренко отправляется на зимовку на 3-м месте в российской премьер-лиге</title>
+            <link>https://sport.tut.by/news/football/618472.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Футболисты ЦСКА под руководством Виктора Гончаренко уходят на зимнюю паузу, занимая третью строку в турнирной таблице российской премьер-лиги.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/04/2/goncharenko-8-12-2018-1.jpg" type="image/jpeg" length="388239" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/618472.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 08 Dec 2018 21:48:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/04/2/goncharenko-8-12-2018-1.jpg" type="image/jpeg" medium="image" height="1365" width="2048" fileSize="388239" />
+            <media:content url="https://img.tyt.by/n/sport/10/a/shchennikov-nababkin-8-12-2018-1.jpg" type="image/jpeg" medium="image" height="1365" width="2048" fileSize="384308" />
+        </item>
+        <item>
+            <title>Баскетболисты «Цмокi-Мiнск» одержали вторую победу со старта чемпионата Единой лиги ВТБ</title>
+            <link>https://sport.tut.by/news/basketball/618468.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Баскетболисты «Цмокі-Мінск» одержали вторую победу со старта регулярного чемпионата Единой лиги ВТБ. В домашнем поединке минчане обыграли соседа по подвалу турнирной таблицы.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/basketball/">Баскетбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/0f/a/vef_tsmoki_fotomikusklavins-131.jpg" type="image/jpeg" length="397039" />
+            <guid isPermaLink="true">https://sport.tut.by/news/basketball/618468.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 08 Dec 2018 19:56:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0f/a/vef_tsmoki_fotomikusklavins-131.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="397039" />
+            <media:content url="https://img.tyt.by/n/sport/0c/f/table-vtb-8-12-2018-1.jpg" type="image/jpeg" medium="image" height="543" width="917" fileSize="153284" />
+        </item>
+        <item>
+            <title>С какими аргументами брестское «Динамо» идет в CAS по делу Савицкого?</title>
+            <link>https://sport.tut.by/news/football/617700.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Так с какими аргументами брестское «Динамо» идет в CAS? Разобраться в них SPORT.TUT.BY помог директор по развитию «Динамо-Брест» Виктор Радьков. Международное регулирование выплаты компенсаций за подготовку игрока при трансфере прокомментировал адвокат Дмитрий Семашко.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/03/3/dynamo_atromitos_2018_8.jpg" type="image/jpeg" length="266555" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/617700.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 08 Dec 2018 18:58:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/03/3/dynamo_atromitos_2018_8.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="266555" />
+            <media:content url="https://img.tyt.by/n/sport/02/c/pismo_savickomu_ot_nemana.jpg" type="image/jpeg" medium="image" height="960" width="720" fileSize="73046" />
+        </item>
+        <item>
+            <title>Макарайнен выиграла спринт в Поклюке, Кривко - 17-я</title>
+            <link>https://sport.tut.by/news/biathlon/618455.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Финская биатлонистка Кайса Макарайнен выиграла спринт на этапе Кубка мира в Поклюке. Лучше из белорусок стала Ирина Кривко.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/biathlon/">Биатлон</category>
+            <enclosure url="https://img.tyt.by/n/sport/09/6/krivko_nyu.jpg" type="image/jpeg" length="718926" />
+            <guid isPermaLink="true">https://sport.tut.by/news/biathlon/618455.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 08 Dec 2018 16:04:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/09/6/krivko_nyu.jpg" type="image/jpeg" medium="image" height="1664" width="2500" fileSize="718926" />
+        </item>
+        <item>
+            <title>Футбольный клуб «Крумкачы» меняет название. Объявлен конкурс на новое имя</title>
+            <link>https://sport.tut.by/news/football/618453.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Свои варианты вы можете присылать на info@krumka.by.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/0b/d/razam.jpg" type="image/jpeg" length="159296" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/618453.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 08 Dec 2018 14:52:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0b/d/razam.jpg" type="image/jpeg" medium="image" height="446" width="700" fileSize="159296" />
+        </item>
+        <item>
+            <title>БАТЭ улетел в Грецию готовиться к главному матчу сезона в Лиге Европы</title>
+            <link>https://sport.tut.by/news/football/618452.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Футболисты БАТЭ отправились в Салоники.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/01/7/departure_2018_12_08_8.jpg" type="image/jpeg" length="206177" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/618452.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 08 Dec 2018 13:48:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/01/7/departure_2018_12_08_8.jpg" type="image/jpeg" medium="image" height="349" width="520" fileSize="206177" />
+            <media:content url="https://img.tyt.by/n/sport/0c/a/bate_vidi_2.jpg" type="image/jpeg" medium="image" height="840" width="1200" fileSize="302030" />
+        </item>
+        <item>
+            <title>Белорусский судья доставлен в больницу после удара от хоккеиста «Локомотива»</title>
+            <link>https://sport.tut.by/news/hockey/618436.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Белорусский лайнсмен Иван Дедюля был доставлен в больницу с черепно-мозговой травмой после удара, который нанес хоккеист ярославского «Локомотива» Артур Каюмов</description>
+            <atom:author>
+                <atom:name>Спорт-Экспресс</atom:name>
+                <atom:uri>http://www.sport-express.ru/</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/09/6/dedyulya.jpg" type="image/jpeg" length="167099" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618436.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Sat, 08 Dec 2018 00:18:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/09/6/dedyulya.jpg" type="image/jpeg" medium="image" height="375" width="500" fileSize="167099" />
+        </item>
+        <item>
+            <title>Стал известен состав молодежной сборной Беларуси по хоккею на ЧМ</title>
+            <link>https://sport.tut.by/news/hockey/618428.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Главный тренер Дмитрий Кравченко огласил заявку на МЧМ, в которую попали 22 хоккеиста. Выбор был не из легких, поскольку пришлось отцепить почти полтора десятка игроков.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/09/f/belarus-u20-hockey-2018.jpg" type="image/jpeg" length="144889" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618428.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 07 Dec 2018 22:27:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/09/f/belarus-u20-hockey-2018.jpg" type="image/jpeg" medium="image" height="238" width="369" fileSize="144889" />
+        </item>
+        <item>
+            <title>«Не очень демократично получилось». Скрипель переизбрана главой Белорусской ассоциации гимнастики</title>
+            <link>https://sport.tut.by/news/gymnastics/618413.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Кандидатура Елены Скрипель была единственной на выборах, а кандидата из числа спортсменов пообещали представить в следующий раз.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/gymnastics/">Гимнастика</category>
+            <enclosure url="https://img.tyt.by/n/zamirovskiy/08/6/04_skripel_04072015_zam_tutby_phsl.jpg" type="image/jpeg" length="600706" />
+            <guid isPermaLink="true">https://sport.tut.by/news/gymnastics/618413.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 07 Dec 2018 18:12:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/zamirovskiy/08/6/04_skripel_04072015_zam_tutby_phsl.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="600706" />
+            <media:content url="https://img.tyt.by/n/buryakina/08/1/dvoec_gimnastiki_20180302_bur_tutby_phsl_-0248.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="368538" />
+        </item>
+        <item>
+            <title>«Есть хип-хоп-одежда - будет и паркур». Паркур признан в Беларуси гимнастической дисциплиной</title>
+            <link>https://sport.tut.by/news/gymnastics/618398.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Глава БАГ Елена Скрипель почти ничего не знает о паркуре в Беларуси, но готова будет рассказать о нем в начале 2019 года.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/gymnastics/">Гимнастика</category>
+            <enclosure url="https://img.tyt.by/n/erchak/02/e/ekstrim_park_yerch_tutby_phsl_20160901_yyd_0269.jpg" type="image/jpeg" length="327680" />
+            <guid isPermaLink="true">https://sport.tut.by/news/gymnastics/618398.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 07 Dec 2018 17:31:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/erchak/02/e/ekstrim_park_yerch_tutby_phsl_20160901_yyd_0269.jpg" type="image/jpeg" medium="image" height="801" width="1200" fileSize="327680" />
+        </item>
+        <item>
+            <title>Йоханнес Бё выиграл спринт в Поклюке, лучший из белорусов - 50-й</title>
+            <link>https://sport.tut.by/news/biathlon/618367.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Норвежский биатлонист Йоханнес Бё одержал уверенную победу в спринте на этапе Кубка мира в словенской Поклюке.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/biathlon/">Биатлон</category>
+            <enclosure url="https://img.tyt.by/n/sport/0e/c/j.t.boe-8-12-2017-1.jpg" type="image/jpeg" length="120912" />
+            <guid isPermaLink="true">https://sport.tut.by/news/biathlon/618367.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 07 Dec 2018 16:08:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0e/c/j.t.boe-8-12-2017-1.jpg" type="image/jpeg" medium="image" height="622" width="961" fileSize="120912" />
+        </item>
+        <item>
+            <title>«Беларусь должна заявить о себе». Посол Швеции - о хоккее, хот-догах и непохожих Беларуси и России</title>
+            <link>https://sport.tut.by/news/hockey/618328.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>SPORT.TUT.BY пригласил посла Швеции вместе посмотреть матч на «Минск-Арене», а заодно узнал, какая она болельщица и что Кристина Юханнессон думает о Беларуси и белорусах.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <atom:author>
+                <atom:name>Фото: Дарья Бурякина</atom:name>
+            </atom:author>
+            <atom:author>
+                <atom:name>Виктория Ковальчук</atom:name>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/buryakina/0d/5/posol_shvecii_kristina_yukhannesson_20181012_bur_tutby_phsl_-9662.jpg" type="image/jpeg" length="208407" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618328.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 07 Dec 2018 14:34:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/buryakina/0d/5/posol_shvecii_kristina_yukhannesson_20181012_bur_tutby_phsl_-9662.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="208407" />
+            <media:content url="https://img.tyt.by/n/buryakina/0d/2/posol_shvecii_kristina_yukhannesson_20181012_bur_tutby_phsl_-9457.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="209733" />
+            <media:content url="https://img.tyt.by/n/buryakina/00/7/posol_shvecii_kristina_yukhannesson_20181012_bur_tutby_phsl_-9462.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="213808" />
+            <media:content url="https://img.tyt.by/n/buryakina/06/3/dinamo_torpedo_20181126_bur_tutby_phsl-9495.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="484071" />
+            <media:content url="https://img.tyt.by/n/buryakina/07/a/posol_shvecii_kristina_yukhannesson_20181012_bur_tutby_phsl_-9695.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="170137" />
+            <media:content url="https://img.tyt.by/n/buryakina/0f/a/posol_shvecii_kristina_yukhannesson_20181012_bur_tutby_phsl_-9648.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="216357" />
+            <media:content url="https://img.tyt.by/n/buryakina/06/6/dinamo_torpedo_20181126_bur_tutby_phsl-9587-2.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="284933" />
+            <media:content url="https://img.tyt.by/n/shukaylo/08/4/khokkey_shellefteo_20180921_shuk_tutby_phsl_4505.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="395968" />
+            <media:content url="https://img.tyt.by/n/regiony/0f/3/avgustovskiy_kanal34.jpg" type="image/jpeg" medium="image" height="798" width="1200" fileSize="576042" />
+        </item>
+        <item>
+            <title>Теему Пулккинен перейдет из минского в московское «Динамо»</title>
+            <link>https://sport.tut.by/news/hockey/618345.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Финский нападающий минского «Динамо» Теему Пулккинен будет обменян в московское «Динамо», сообщает «Чемпионат.ком».</description>
+            <atom:author>
+                <atom:name>Чемпионат.ру</atom:name>
+                <atom:uri>http://www.championat.ru</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/buryakina/02/1/dinamo-sibir_20180624_bur_tutby_phsl-0041.jpg" type="image/jpeg" length="238962" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618345.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 07 Dec 2018 13:08:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/buryakina/02/1/dinamo-sibir_20180624_bur_tutby_phsl-0041.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="238962" />
+        </item>
+        <item>
+            <title>Тренер встал перед судьей на колени ради добавленного времени</title>
+            <link>https://sport.tut.by/news/football/618335.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Главный тренер софийского ЦСКА Нестор Эль Маэстро умолял судью добавить время в концовке матча чемпионата Болгарии против «Лудогорца».</description>
+            <atom:author>
+                <atom:name>Lenta.ru</atom:name>
+                <atom:uri>http://lenta.ru/</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/00/3/nestor-el-maestro-2018-1.jpg" type="image/jpeg" length="33464" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/618335.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 07 Dec 2018 12:33:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/00/3/nestor-el-maestro-2018-1.jpg" type="image/jpeg" medium="image" height="280" width="491" fileSize="33464" />
+        </item>
+        <item>
+            <title>Американский новобранец минского «Динамо» - о Руслане Салее, горных козлах и необычных хобби</title>
+            <link>https://sport.tut.by/news/hockey/618312.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Новобранец минского «Динамо», 34-летний американский форвард Дэвид Бут поделился ожиданиями от выступления в Минске, вспомнил о легенде белорусского хоккея Руслане Салее и рассказал о своих необычных хобби.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/buryakina/09/0/dinamo_torpedo_20181126_bur_tutby_phsl-9714.jpg" type="image/jpeg" length="317329" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618312.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 07 Dec 2018 11:46:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/buryakina/09/0/dinamo_torpedo_20181126_bur_tutby_phsl-9714.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="317329" />
+            <media:content url="https://img.tyt.by/n/sport/00/9/david_booth_detroit.jpg" type="image/jpeg" medium="image" height="790" width="1200" fileSize="315686" />
+        </item>
+        <item>
+            <title>Футболист года - о Капском, курьезе с установками Дулуба на английском и реакции на мешок денег</title>
+            <link>https://sport.tut.by/news/football/618302.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Лучший футболист Беларуси 2018 года Игорь Стасевич вспомнил о детских тренировках на асфальте, рассказал истории о Капском и об установках Дулуба на английском, а также о своей возможной реакции на мешок денег от брестского «Динамо»</description>
+            <atom:author>
+                <atom:name>Сергей Кайко, ПРЕССБОЛ</atom:name>
+                <atom:uri>http://www.pressball.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/brushko/0d/5/futbolist_goda_2018_04122018_tutby_brush_phsl_-7981.jpg" type="image/jpeg" length="288391" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/618302.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Fri, 07 Dec 2018 11:05:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/brushko/0d/5/futbolist_goda_2018_04122018_tutby_brush_phsl_-7981.jpg" type="image/jpeg" medium="image" height="801" width="1200" fileSize="288391" />
+            <media:content url="https://img.tyt.by/n/sport/0b/9/kapski-30.09.2018_bate_dminsk_63.jpg" type="image/jpeg" medium="image" height="347" width="520" fileSize="191595" />
+            <media:content url="https://img.tyt.by/n/brushko/09/c/futbolist_goda_2018_04122018_tutby_brush_phsl_-8047.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="311442" />
+            <media:content url="https://img.tyt.by/n/sport/0c/5/01.04.2018_bate_smolevichi_48-stasevich.jpg" type="image/jpeg" medium="image" height="347" width="520" fileSize="129485" />
+        </item>
+        <item>
+            <title>Один из лучших белорусских велогонщиков завершил карьеру в возрасте 27 лет</title>
+            <link>https://sport.tut.by/news/velosport/618273.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Один из лучших белорусских гонщиков Илья Кошевой объявил о завершении карьеры в возрасте 27 лет.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/velosport/">Велоспорт</category>
+            <enclosure url="https://img.tyt.by/n/sport/02/7/koshevoy2018.jpg" type="image/jpeg" length="158914" />
+            <guid isPermaLink="true">https://sport.tut.by/news/velosport/618273.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 06 Dec 2018 23:07:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/02/7/koshevoy2018.jpg" type="image/jpeg" medium="image" height="647" width="991" fileSize="158914" />
+        </item>
+        <item>
+            <title>Андрей Сидоренко: Сами отдали победу из-за ужасных индивидуальных ошибок и нарушения дисциплины</title>
+            <link>https://sport.tut.by/news/hockey/618271.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Главный тренер минского «Динамо» Андрей Сидоренко критически оценил действия команды, проигравшей нижегородскому «Торпедо» со счетом 3:6.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/buryakina/04/c/dinamo_torpedo_20181126_bur_tutby_phsl-9823.jpg" type="image/jpeg" length="291907" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618271.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 06 Dec 2018 22:48:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/buryakina/04/c/dinamo_torpedo_20181126_bur_tutby_phsl-9823.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="291907" />
+        </item>
+        <item>
+            <title>Российские клубы не отпустили двух хоккеистов в сборную Беларуси на декабрьский турнир</title>
+            <link>https://sport.tut.by/news/hockey/618268.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>За несколько дней до старта декабрьского тренировочного лагеря национальной сборной Беларуси в составе ожидающихся в нем игроков произошли изменения.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/sport/03/4/shinkevich-2015-111.jpg" type="image/jpeg" length="181512" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618268.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 06 Dec 2018 22:17:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/03/4/shinkevich-2015-111.jpg" type="image/jpeg" medium="image" height="801" width="1200" fileSize="181512" />
+            <media:content url="https://img.tyt.by/n/buryakina/0f/7/belarus_sloveniya_20181031_bur_tutby_phsl-6501.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="455008" />
+        </item>
+        <item>
+            <title>Российские СМИ сообщили новые подробности по делу о гибели 18-летнего игрока «Локомотива»</title>
+            <link>https://sport.tut.by/news/football/618262.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Как рассказал друг погибшего следствию, в тот вечер они вместе с Ломакиным отдыхали у него дома, пока там не было родителей. После этого они решили поехать к Алексею, но по дороге у них возник конфликт с таксистом.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/football/">Футбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/09/f/lomakin_al.jpg" type="image/jpeg" length="66071" />
+            <guid isPermaLink="true">https://sport.tut.by/news/football/618262.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 06 Dec 2018 20:14:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/09/f/lomakin_al.jpg" type="image/jpeg" medium="image" height="489" width="925" fileSize="66071" />
+        </item>
+        <item>
+            <title>Минское «Динамо» пропустило дома шесть шайб от нижегородского «Торпедо»</title>
+            <link>https://sport.tut.by/news/hockey/618255.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Минское «Динамо» проиграло нижегородскому «Торпедо» в домашнем матче Континентальной хоккейной лиги - 3:6 (2:1, 1:2, 0:3).</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <atom:author>
+                <atom:name>Фото: Дарья Бурякина</atom:name>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/buryakina/05/a/dinamo_torpedo_20181126_bur_tutby_phsl-9830.jpg" type="image/jpeg" length="359764" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618255.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 06 Dec 2018 19:24:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/buryakina/05/a/dinamo_torpedo_20181126_bur_tutby_phsl-9830.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="359764" />
+            <media:content url="https://img.tyt.by/n/buryakina/04/c/dinamo_torpedo_20181126_bur_tutby_phsl-9823.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="291907" />
+            <media:content url="https://img.tyt.by/n/buryakina/0e/d/dinamo_torpedo_20181126_bur_tutby_phsl-9371.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="432196" />
+            <media:content url="https://img.tyt.by/n/buryakina/08/5/dinamo_torpedo_20181126_bur_tutby_phsl-9392.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="521152" />
+            <media:content url="https://img.tyt.by/n/buryakina/0f/7/dinamo_torpedo_20181126_bur_tutby_phsl-9397.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="423891" />
+            <media:content url="https://img.tyt.by/n/buryakina/04/1/dinamo_torpedo_20181126_bur_tutby_phsl-9457.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="376535" />
+            <media:content url="https://img.tyt.by/n/buryakina/08/9/dinamo_torpedo_20181126_bur_tutby_phsl-9476.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="311494" />
+            <media:content url="https://img.tyt.by/n/buryakina/0e/1/dinamo_torpedo_20181126_bur_tutby_phsl-9478.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="288205" />
+            <media:content url="https://img.tyt.by/n/buryakina/05/1/dinamo_torpedo_20181126_bur_tutby_phsl-9481.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="401099" />
+            <media:content url="https://img.tyt.by/n/buryakina/02/9/dinamo_torpedo_20181126_bur_tutby_phsl-9485.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="443617" />
+            <media:content url="https://img.tyt.by/n/buryakina/08/2/dinamo_torpedo_20181126_bur_tutby_phsl-9493.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="427049" />
+            <media:content url="https://img.tyt.by/n/buryakina/05/e/dinamo_torpedo_20181126_bur_tutby_phsl-9494.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="430598" />
+            <media:content url="https://img.tyt.by/n/buryakina/06/3/dinamo_torpedo_20181126_bur_tutby_phsl-9495.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="484071" />
+            <media:content url="https://img.tyt.by/n/buryakina/0a/c/dinamo_torpedo_20181126_bur_tutby_phsl-9506.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="357330" />
+            <media:content url="https://img.tyt.by/n/buryakina/01/7/dinamo_torpedo_20181126_bur_tutby_phsl-9538.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="348470" />
+            <media:content url="https://img.tyt.by/n/buryakina/03/9/dinamo_torpedo_20181126_bur_tutby_phsl-9540.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="361339" />
+            <media:content url="https://img.tyt.by/n/buryakina/04/9/dinamo_torpedo_20181126_bur_tutby_phsl-9553.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="326078" />
+            <media:content url="https://img.tyt.by/n/buryakina/06/6/dinamo_torpedo_20181126_bur_tutby_phsl-9587-2.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="284933" />
+            <media:content url="https://img.tyt.by/n/buryakina/04/6/dinamo_torpedo_20181126_bur_tutby_phsl-9591.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="516772" />
+            <media:content url="https://img.tyt.by/n/buryakina/07/9/dinamo_torpedo_20181126_bur_tutby_phsl-9596.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="412998" />
+            <media:content url="https://img.tyt.by/n/buryakina/0f/3/dinamo_torpedo_20181126_bur_tutby_phsl-9621.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="402633" />
+            <media:content url="https://img.tyt.by/n/buryakina/01/d/dinamo_torpedo_20181126_bur_tutby_phsl-9623.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="384443" />
+            <media:content url="https://img.tyt.by/n/buryakina/09/0/dinamo_torpedo_20181126_bur_tutby_phsl-9714.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="317329" />
+            <media:content url="https://img.tyt.by/n/buryakina/0a/2/dinamo_torpedo_20181126_bur_tutby_phsl-9723.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="500219" />
+            <media:content url="https://img.tyt.by/n/buryakina/00/2/dinamo_torpedo_20181126_bur_tutby_phsl-9724.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="355194" />
+            <media:content url="https://img.tyt.by/n/buryakina/06/2/dinamo_torpedo_20181126_bur_tutby_phsl-9752.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="408435" />
+            <media:content url="https://img.tyt.by/n/buryakina/04/0/dinamo_torpedo_20181126_bur_tutby_phsl-9763.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="449502" />
+            <media:content url="https://img.tyt.by/n/buryakina/0e/a/dinamo_torpedo_20181126_bur_tutby_phsl-9770.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="405610" />
+            <media:content url="https://img.tyt.by/n/buryakina/08/c/dinamo_torpedo_20181126_bur_tutby_phsl-9782.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="428202" />
+            <media:content url="https://img.tyt.by/n/buryakina/04/c/dinamo_torpedo_20181126_bur_tutby_phsl-9825.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="394608" />
+        </item>
+        <item>
+            <title>«Колени ныли, а я ведь не старый». Линейный БГК - про эксперименты с весом, «Барсу» и рэпера Миллера</title>
+            <link>https://sport.tut.by/news/handball/617519.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Артем Сельвесюк рассказал, как набирал вес во время ссылки в Венгрию и сыграл с «Барселоной» в Лиге чемпионов за родной клуб, а также - о чувствах в связи со смертью американского рэпера Мака Миллера.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <atom:author>
+                <atom:name>Юрий Михалевич</atom:name>
+                <atom:uri>https://news.tut.by/author/1590-yuriy-mikhalevich.html</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/handball/">Гандбол</category>
+            <enclosure url="https://img.tyt.by/n/sport/07/8/selvesyuk_dj0aocnvar4.jpg" type="image/jpeg" length="336507" />
+            <guid isPermaLink="true">https://sport.tut.by/news/handball/617519.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 06 Dec 2018 18:04:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/07/8/selvesyuk_dj0aocnvar4.jpg" type="image/jpeg" medium="image" height="844" width="1280" fileSize="336507" />
+            <media:content url="https://img.tyt.by/n/sport/02/6/selvesyuk_evoh-bjlc4u.jpg" type="image/jpeg" medium="image" height="853" width="1280" fileSize="317673" />
+            <media:content url="https://img.tyt.by/n/sport/09/2/selvesyuk_p40jfiep68q.jpg" type="image/jpeg" medium="image" height="853" width="1280" fileSize="474226" />
+            <media:content url="https://img.tyt.by/n/sport/06/7/selvesyuk_grqu6j0tmpk.jpg" type="image/jpeg" medium="image" height="853" width="1280" fileSize="387591" />
+            <media:content url="https://img.tyt.by/n/sport/0a/5/selvesyuk_19.png" type="image/png" medium="image" height="731" width="1096" fileSize="1833075" />
+            <media:content url="https://img.tyt.by/n/sport/08/4/selvesyuk_0rjimbh-me4.jpg" type="image/jpeg" medium="image" height="847" width="1280" fileSize="347598" />
+            <media:content url="https://img.tyt.by/n/sport/10/b/selvesyuk_icu7z0ey7ce.jpg" type="image/jpeg" medium="image" height="853" width="1280" fileSize="502040" />
+        </item>
+        <item>
+            <title>Украинская биатлонистка Джима выиграла индивидуальную гонку, Кривко - 14-я</title>
+            <link>https://sport.tut.by/news/biathlon/618234.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Украинка Юлия Джима выиграла индивидуальную гонку на этапе Кубка мира по биатлону в Словении</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/biathlon/">Биатлон</category>
+            <enclosure url="https://img.tyt.by/n/sport/0a/2/dzhima.jpg" type="image/jpeg" length="308169" />
+            <guid isPermaLink="true">https://sport.tut.by/news/biathlon/618234.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 06 Dec 2018 17:52:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/sport/0a/2/dzhima.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="308169" />
+        </item>
+        <item>
+            <title>Михаил Захаров: Мне жалко весь белорусский хоккей</title>
+            <link>https://sport.tut.by/news/hockey/618186.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Главный тренер минской «Юности» Михаил Захаров после победного матча с «Гомелем» поделился мнением о сложной ситуации в белорусском хоккее.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/brushko/0c/7/junost-sheffield-13-01-2018-zaharov-m-m-2.jpeg" type="image/jpeg" length="200817" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618186.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 06 Dec 2018 13:04:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/brushko/0c/7/junost-sheffield-13-01-2018-zaharov-m-m-2.jpeg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="200817" />
+        </item>
+        <item>
+            <title>Минское «Динамо» заключило контракт с 37-летним российским нападающим</title>
+            <link>https://sport.tut.by/news/hockey/618170.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</link>
+            <description>Минское «Динамо» заключило полноценный контракт с 37-летним российским нападающим Алексеем Терещенко, который ранее находился на просмотре, сообщает официальный сайт клуба.</description>
+            <atom:author>
+                <atom:name>SPORT.TUT.BY</atom:name>
+                <atom:uri>http://sport.tut.by</atom:uri>
+            </atom:author>
+            <category domain="https://sport.tut.by/rubric/hockey/">Хоккей</category>
+            <enclosure url="https://img.tyt.by/n/buryakina/0e/9/dinamo_neftekhimik_20181126_bur_tutby_phsl-8696.jpg" type="image/jpeg" length="486632" />
+            <guid isPermaLink="true">https://sport.tut.by/news/hockey/618170.html?utm_campaign=news-feed&#x26;utm_medium=rss&#x26;utm_source=rss-news</guid>
+            <pubDate>Thu, 06 Dec 2018 12:08:00 +0300</pubDate>
+            <media:content url="https://img.tyt.by/n/buryakina/0e/9/dinamo_neftekhimik_20181126_bur_tutby_phsl-8696.jpg" type="image/jpeg" medium="image" height="800" width="1200" fileSize="486632" />
+        </item>
+    </channel>
+</rss>
